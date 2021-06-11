@@ -1,7 +1,0 @@
-C:\Users\mort286f\source\repos\BirdsFlyingAroundAppOpgave\BirdsFlyingAroundAppOpgave\bin\Debug\BirdsFlyingAroundAppOpgave.exe.config
-C:\Users\mort286f\source\repos\BirdsFlyingAroundAppOpgave\BirdsFlyingAroundAppOpgave\bin\Debug\BirdsFlyingAroundAppOpgave.exe
-C:\Users\mort286f\source\repos\BirdsFlyingAroundAppOpgave\BirdsFlyingAroundAppOpgave\bin\Debug\BirdsFlyingAroundAppOpgave.pdb
-C:\Users\mort286f\source\repos\BirdsFlyingAroundAppOpgave\BirdsFlyingAroundAppOpgave\obj\Debug\BirdsFlyingAroundAppOpgave.csprojAssemblyReference.cache
-C:\Users\mort286f\source\repos\BirdsFlyingAroundAppOpgave\BirdsFlyingAroundAppOpgave\obj\Debug\BirdsFlyingAroundAppOpgave.csproj.CoreCompileInputs.cache
-C:\Users\mort286f\source\repos\BirdsFlyingAroundAppOpgave\BirdsFlyingAroundAppOpgave\obj\Debug\BirdsFlyingAroundAppOpgave.exe
-C:\Users\mort286f\source\repos\BirdsFlyingAroundAppOpgave\BirdsFlyingAroundAppOpgave\obj\Debug\BirdsFlyingAroundAppOpgave.pdb
